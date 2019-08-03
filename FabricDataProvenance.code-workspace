@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "/Users/yojee/Documents/GitHub/poe-sample/chaincode/src/github.com/poe-chaincode-go"
+		},
+		{
+			"path": "/Users/yojee/Documents/GitHub/poe-sample"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "/Users/yojee/Documents/GitHub/fabric-sdk-node"
+		},
+		{
+			"path": "/Users/yojee/Documents/GitHub/hyperledger-typescript-boilerplate"
+		},
+		{
+			"path": "/Users/yojee/Documents/GitHub/fabric"
+		},
+		{
+			"path": "/Users/yojee/Documents/GitHub/convector-example-drug-supply-chain"
+		},
+		{
+			"path": "/Users/yojee/Documents/GitHub/convector-rest-api"
+		},
+		{
+			"path": "/Users/yojee/Documents/GitHub/testDataProvenance"
+		},
+		{
+			"path": "/Users/yojee/Documents/GitHub/attributesDb"
+		}
+	],
+	"settings": {}
+}
